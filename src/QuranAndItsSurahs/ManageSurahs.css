@@ -1,0 +1,53 @@
+/* ManageSurahs.module.css */
+
+.main {
+  color: #fff;
+    background-color: #1572ac;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Jameel Noori Nastaleeq;
+    
+  }
+  
+  .SurahId {
+    font-weight: bold;
+    font-size: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #000;
+    
+  }
+  
+  .SurahNameUr {
+    color: #fff;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 50px;
+  }
+  
+  .SurahNameE {
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .Nazool {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  
+  .details {
+    margin-top: 10px;
+    padding-left: 20px;
+    font-size: 25px;
+  }
+  
+  .SurahIntro {
+    color: #fff;
+    margin-top: 5px;
+    font-size: 35px;
+  }
+  
